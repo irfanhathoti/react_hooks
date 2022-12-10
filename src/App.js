@@ -17,7 +17,7 @@ function App() {
       {/* <HookCounterThree/> */}
       {/* <HookArray/> */}
 
-      <ClassCounter1 />
+      {/* <ClassCounter1 /> */}
       <UseEffectHook/>
     </div>
   );
